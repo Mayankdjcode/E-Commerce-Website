@@ -1,7 +1,7 @@
-# E-Commerce-Website
+To use this application, 
 
-## Developed an E-commerce website utilizing a modern tech stack.
+1. make dev.js file inside config folder 
+2. put mongoDB info into dev.js file 
+3. Type "npm install" inside the root directory (Download Server Dependencies) 
+4. Type "npm install" inside the client directory (Download Front-end Dependencies)
 
-## ReactJS for the frontend and NodeJS with ExpressJS for the backend, coupled with MongoDB for database management. 
-
-## The website enables users to seamlessly browse through products, add items to their cart, and proceed to a streamlined checkout process with multiple payment options.
